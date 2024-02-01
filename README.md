@@ -1,2 +1,2 @@
-Vu Phuong Thuy - 20010751
+**Vu Phuong Thuy - 20010751**
 Natural Language Processing - Midterm Project
